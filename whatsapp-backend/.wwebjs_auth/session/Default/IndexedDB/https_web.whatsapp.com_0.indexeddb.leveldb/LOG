@@ -1,0 +1,30 @@
+2025/09/03-18:03:01.607 1a338 Reusing MANIFEST C:\Users\DELL\OneDrive - BizViz Technologies Pvt Ltd\Documents\React Project\love me\whatsapp-backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/03-18:03:01.608 1a338 Recovering log #207
+2025/09/03-18:03:02.010 1a338 Reusing old log C:\Users\DELL\OneDrive - BizViz Technologies Pvt Ltd\Documents\React Project\love me\whatsapp-backend\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000207.log 
+2025/09/03-18:03:06.508 19e44 Level-0 table #218: started
+2025/09/03-18:03:06.574 19e44 Level-0 table #218: 906846 bytes OK
+2025/09/03-18:03:06.576 19e44 Delete type=0 #207
+2025/09/03-18:03:06.578 19e44 Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at '\x00-\x00\x00\x05' @ 1021093 : 1
+2025/09/03-18:03:06.578 19e44 Compacting 1@0 + 1@1 files
+2025/09/03-18:03:07.082 19e44 Generated table #219@0: 106032 keys, 2258686 bytes
+2025/09/03-18:03:07.156 19e44 Generated table #220@0: 22124 keys, 514715 bytes
+2025/09/03-18:03:07.156 19e44 Compacted 1@0 + 1@1 files => 2773401 bytes
+2025/09/03-18:03:07.157 19e44 compacted to: files[ 0 2 5 0 0 0 0 ]
+2025/09/03-18:03:07.158 19e44 Delete type=2 #218
+2025/09/03-18:03:07.159 19e44 Manual compaction at level-0 from '\x00-\x00\x00\x05' @ 1021093 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/03-18:03:11.539 19e44 Compacting 1@1 + 5@2 files
+2025/09/03-18:03:11.675 19e44 Generated table #221@1: 28889 keys, 2188053 bytes
+2025/09/03-18:03:11.735 19e44 Generated table #222@1: 2590 keys, 2144008 bytes
+2025/09/03-18:03:11.853 19e44 Generated table #223@1: 17522 keys, 2201889 bytes
+2025/09/03-18:03:11.991 19e44 Generated table #224@1: 19359 keys, 2180694 bytes
+2025/09/03-18:03:12.301 19e44 Generated table #225@1: 88534 keys, 2236886 bytes
+2025/09/03-18:03:12.441 19e44 Generated table #226@1: 68411 keys, 1581528 bytes
+2025/09/03-18:03:12.441 19e44 Compacted 1@1 + 5@2 files => 12533058 bytes
+2025/09/03-18:03:12.442 19e44 compacted to: files[ 0 1 6 0 0 0 0 ]
+2025/09/03-18:03:12.442 19e44 Delete type=2 #210
+2025/09/03-18:03:12.442 19e44 Delete type=2 #211
+2025/09/03-18:03:12.442 19e44 Delete type=2 #212
+2025/09/03-18:03:12.442 19e44 Delete type=2 #213
+2025/09/03-18:03:12.443 19e44 Delete type=2 #214
+2025/09/03-18:03:12.443 19e44 Delete type=2 #215
+2025/09/03-18:03:12.443 19e44 Delete type=2 #219

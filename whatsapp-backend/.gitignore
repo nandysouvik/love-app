@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Session/auth cache (used by whatsapp-web.js)
+.wwejs_cache/
+.wwejs_auth/
+
+# Build output (if any)
+dist/
+
+# IDE/editor settings
+.vscode/
+*.idea/
+.DS_Store
